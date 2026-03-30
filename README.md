@@ -88,22 +88,3 @@ My work focuses on bridging **asset integrity, reliability engineering, and inte
 </table>
 
 ---
-
-## 📊 Performance & Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=LHOA&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-    alt="Luís Henrique GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHOA&layout=compact&theme=radical&hide=html,css"
-    alt="Most Used Languages"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <em>“Code is the new tool for asset reliability.”</em> 🚀
-</p>
