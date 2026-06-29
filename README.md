@@ -1,7 +1,13 @@
-
 <div align="center">
   <h1>Hi, I'm Luís Henrique 👋</h1>
   <p><strong>Reliability Engineer | Machine Learning & AI Enthusiast</strong></p>
+  
+  <p>
+    <img src="https://d149xwk9kzuz19.cloudfront.net/min/business-photos/10155603341388551_society-of-petroleum-engineers_image.jpeg" width="25" align="center" alt="SPE Logo"/> 
+    <strong>Head of AI & Innovation @ SPE (Operation & Maintenance Section Brazil)</strong>
+  </p>
+
+  <br>
 
   <a href="https://www.linkedin.com/in/luishenriqueifma/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -39,6 +45,16 @@ My work focuses on bridging **asset integrity, reliability engineering, and inte
 
 - **Full Stack & Business Intelligence**  
   End-to-end solution development with **FastAPI, React, and Power BI**, focused on scalable architecture and high-performance analytics.
+
+---
+
+## 🔥 Featured Projects
+
+- 🏭 **[Predictive Maintenance for FPSO Equipment](https://github.com/LHOA/shape-challenge)**  
+  *Machine Learning pipeline to predict equipment failure using XGBoost, temporal cross-validation, and SHAP feature importance.*
+  
+- 🤖 **[ReliaAgents - AI for Root Cause Analysis](https://www.reliaagents.com)**  
+  *AI agents ecosystem developed to automate, scale, and standardize Root Cause Analysis (RCA) workflows in industrial environments.*
 
 ---
 
@@ -90,6 +106,13 @@ My work focuses on bridging **asset integrity, reliability engineering, and inte
 </table>
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LHOA&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHOA&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<br>
 
 <p align="center">
   <em>“Code is the new tool for asset reliability.”</em> 🚀
