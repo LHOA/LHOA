@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>Hi, I'm Luís Henrique 👋</h1>
-  <p><strong>Reliability Engineer | Machine Learning & LLM Developer</strong></p>
+  <p><strong>Reliability Engineer | Machine Learning & AI Enthusiast</strong></p>
 
   <a href="https://www.linkedin.com/in/luishenriqueifma/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
