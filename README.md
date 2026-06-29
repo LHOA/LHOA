@@ -106,13 +106,6 @@ My work focuses on bridging **asset integrity, reliability engineering, and inte
 </table>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LHOA&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHOA&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-
 <br>
 
 <p align="center">
